@@ -1,0 +1,15 @@
+D:\Задания при устройстве на работу\TEXODE\Server\bin\Debug\netcoreapp3.0\Server.exe
+D:\Задания при устройстве на работу\TEXODE\Server\bin\Debug\netcoreapp3.0\Server.deps.json
+D:\Задания при устройстве на работу\TEXODE\Server\bin\Debug\netcoreapp3.0\Server.runtimeconfig.json
+D:\Задания при устройстве на работу\TEXODE\Server\bin\Debug\netcoreapp3.0\Server.runtimeconfig.dev.json
+D:\Задания при устройстве на работу\TEXODE\Server\bin\Debug\netcoreapp3.0\Server.dll
+D:\Задания при устройстве на работу\TEXODE\Server\bin\Debug\netcoreapp3.0\Server.pdb
+D:\Задания при устройстве на работу\TEXODE\Server\obj\Debug\netcoreapp3.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Задания при устройстве на работу\TEXODE\Server\obj\Debug\netcoreapp3.0\Server.AssemblyInfoInputs.cache
+D:\Задания при устройстве на работу\TEXODE\Server\obj\Debug\netcoreapp3.0\Server.AssemblyInfo.cs
+D:\Задания при устройстве на работу\TEXODE\Server\obj\Debug\netcoreapp3.0\Server.csproj.CoreCompileInputs.cache
+D:\Задания при устройстве на работу\TEXODE\Server\obj\Debug\netcoreapp3.0\Server.dll
+D:\Задания при устройстве на работу\TEXODE\Server\obj\Debug\netcoreapp3.0\Server.pdb
+D:\Задания при устройстве на работу\TEXODE\Server\obj\Debug\netcoreapp3.0\Server.genruntimeconfig.cache
+D:\Задания при устройстве на работу\TEXODE\Server\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Задания при устройстве на работу\TEXODE\Server\obj\Debug\netcoreapp3.0\Server.csproj.CopyComplete
